@@ -10,7 +10,7 @@
 ##1.  set the value of the matrix
 ##2.  get the value of the matrix
 ##3.  set the value of the inverse
-##4.  get the value of the inversea
+##4.  get the value of the inverse
 
 #example 
 #m1<- matrix(c(1,2,3,4),nrow = 2,ncol = 2)
