@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions dosads
 
-## Write a short comment describing this functionf
+## Write a short comment describing this functionf gfdg
 
 
 ##The first function, makeCacheMatrix creates and cache the inverse matrix, cntaining the following 
